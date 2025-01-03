@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="760" height="500" src="https://files.catbox.moe/rdv2fe.png">
+  <img width="500" height="350" src="https://files.catbox.moe/rdv2fe.png">
 </p>
 
 <p align="center">
